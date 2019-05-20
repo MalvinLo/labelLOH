@@ -18,7 +18,7 @@ Instructions coming soon!
 
 ## Authors
 
-* **Kevin Hua** - *Initial work* - [voxelpushing](https://github.com/voxelpushing)
+* **Kevin Hua** - [voxelpushing](https://github.com/voxelpushing)
 
 * **Wei Min Loh** - [wmloh](https://github.com/wmloh)
 
